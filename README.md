@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anirban Mukhopadhyay @Skyrmionic-Sensation.
+- 👋 Hi, I’m Anirban Mukhopadhyay @anirbanm93.
 - 👀 I’m interested in numerical simulation of magnonic devices, spin-waves in magnetic system.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on machine learning based algorithm to solve LLG equation.
